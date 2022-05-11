@@ -1,2 +1,1 @@
-# wut
-What’s this all about then?
+Share your cryptopals challenge answers with this account.
